@@ -1,7 +1,7 @@
 # useful_resources
 
-> #### Table of Contents:
->
+ #### Table of Contents:
+
 >  - [Coding](#coding)
 >  - [Videoediting](#videoediting)
 >  - [3D Software](#3d-software)
