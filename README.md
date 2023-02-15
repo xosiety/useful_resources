@@ -1,8 +1,8 @@
 # useful-resources
 ### for creatives, developers and anything in between
 
-> #### Table of Contents:
->
+ #### Table of Contents:
+
 >  - [Coding](#coding)
 >  - [Videoediting](#videoediting)
 >  - [3D Software](#3d-software)
