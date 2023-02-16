@@ -15,11 +15,8 @@
 
 ### Coding
 
-• A free online course about C
-  https://www.udacity.com/course/introduction-to-c--ud210
-
-• A free online course about C++
-  https://www.udacity.com/course/introduction-to-c--ud210
+• C
+  https://www.learn-c.org/
 
 • Harvard's CS50 course
   https://www.edx.org/course/cs50s-introduction-to-computer-science
@@ -69,19 +66,6 @@
 
 ### Game Release
 
-• Free game icons
-  https://itch.io/game-assets/free
-  https://itch.io/game-assets/free/tag-2d
-
-• Free game sounds
-  https://freesound.org/ 
-
-• Free game music
-  https://freemusicarchive.org/ 
-
-• Free game assets
-  https://itch.io/game-assets
-
 • Free press-kit template
   http://dopresskit.com/  
 
@@ -125,10 +109,12 @@
 
 ### Bonus 
 
+• Some online tools to speed up your typing
+  https://monkeytype.com
+  https://zty.pe
+
 • An open-source game about learning Git!
   https://ohmygit.org
 
-• A free online course about Unix
-  https://www.udacity.com/course/introduction-to-linux--ud595
 
 ### Enjoy
