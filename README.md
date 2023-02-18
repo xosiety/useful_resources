@@ -24,6 +24,10 @@
 • Vim
   https://www.openvim.com/
 
+• Grow skills with Codewars
+  www.codewars.com/r/OM2Fng
+
+
 ### Videoediting
 
 • DaVinci Resolve (free)
