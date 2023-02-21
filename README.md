@@ -19,14 +19,14 @@
   https://www.learn-c.org/
 
 • Harvard's CS50 course
-  https://www.edx.org/course/cs50s-introduction-to-computer-science
+  https://www.youtube.com/watch?v=IDDmrzzB14M&list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4
 
-• Vim
+• Vim learning tools + MIT open lecture
   https://www.openvim.com/
+  https://missing.csail.mit.edu/2020/editors/
 
 • Grow skills with Codewars
   www.codewars.com/r/OM2Fng
-
 
 ### Videoediting
 
@@ -35,7 +35,6 @@
 
 • Learn DaVinci Resolve from beginner level
   https://www.youtube.com/watch?v=V7aIbRZjJg0&list=PLx0iOsdUOUmnJQ5y5b2X0HbY5F5QoWb8L
-
 
 ### 3D Software
 
