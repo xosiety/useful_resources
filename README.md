@@ -28,6 +28,9 @@
 • Grow skills with Codewars
   www.codewars.com/r/OM2Fng
 
+• Understanding Bash
+  https://explainshell.com/
+
 ### Videoediting
 
 • DaVinci Resolve (free)
@@ -60,12 +63,6 @@
 
 • Godot (open-source)
   https://godotengine.org
-
-• Unity (paid)
-  https://unity.com/
-
-• Unreal (paid)
-  https://www.unrealengine.com/
 
 ### Game Release
 
